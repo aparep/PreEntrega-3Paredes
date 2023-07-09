@@ -1,3 +1,5 @@
 # PreEntrega2-Paredes
 
-En mi git hub, no me aparece la opciòn de realizar deaploy
+Deploy
+
+https://aparep.github.io/PreEntrega2-Paredes/)https://aparep.github.io/PreEntrega2-Paredes/
